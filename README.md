@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Loan approval analysis and forecasting
 This notebook features a quick exploratory analysis and loan approval forecast using a dataset made available in Kaggle. The dataset contains information about loan applicants such as credit history, income, employment, and more.
 
